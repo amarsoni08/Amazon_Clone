@@ -17,7 +17,7 @@
     width: 100px;
 }
 .logo{
-    background-image: url(/ama.jpg);
+    background-image: url(ama.jpg);
     height: 50px;
     width: 100%;
     background-size:cover;
@@ -225,7 +225,7 @@ a{
     color: #FFFFFF;
 }
 .background{
-    background-image: url(/i1.jpg);
+    background-image: url(i1.jpg);
     height: 500px;
     display: flex;
     background-size: cover;
